@@ -17,9 +17,9 @@ public class Main {
 
     public static void main(String[] args) {
         //int [] nums = {1,2,3,1};
-        //int [] nums = {2,7,9,3,1};
-        int [] nums = {2,1,1,2};
-        //System.out.println(rob(nums));
+        int [] nums = {2,7,9,3,1};
+        //int [] nums = {2,1,1,2};
+        System.out.println(rob(nums));
         System.out.println("Hello World!");
     }
 }
