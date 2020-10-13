@@ -1,9 +1,4 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-
-public class Main {
-
+public class PalindromeNumber_Easy9 {
     public static boolean isPalindrome(int x) {
         if(x<0) return false;
         return reverse(x) == x;
