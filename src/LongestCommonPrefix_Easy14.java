@@ -1,12 +1,6 @@
-import com.sun.xml.internal.fastinfoset.util.CharArray;
-
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
-public class Main {
-
+public class LongestCommonPrefix_Easy14 {
     // Returns intersections of letters in strings, not only the prefix
     public static String longestCommonPrefixNOOOOO(String[] strs) {
         HashSet<Character> set1 = new HashSet<>();
